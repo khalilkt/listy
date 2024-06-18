@@ -9,6 +9,8 @@ class WilayaList(ListAPIView):
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
+    pagination_class = None
+
 
     def get_queryset(self):
         return Wilaya.objects.all()
@@ -20,6 +22,8 @@ class MoughataaList(ListAPIView):
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
+    pagination_class = None
+
 
     def get_queryset(self):
         return Moughataa.objects.all()
@@ -31,6 +35,8 @@ class CommuneList(ListAPIView):
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
+    pagination_class = None
+
 
     def get_queryset(self):
         return Commune.objects.all()
@@ -42,6 +48,8 @@ class CentreList(ListAPIView):
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
+    pagination_class = None
+
 
     def get_queryset(self):
         return Centre.objects.all()
@@ -53,6 +61,7 @@ class BureauList(ListAPIView):
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
+    pagination_class = None
 
     def get_queryset(self):
         return Bureau.objects.all()
