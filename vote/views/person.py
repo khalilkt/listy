@@ -54,6 +54,27 @@ class MyPersonList(ListCreateAPIView):
     ordering_fileds = []
     ordering = ['person__name']
 
+    def filter_queryset(self, queryset):
+        ret =  super().filter_queryset(queryset)
+        params = self.request.query_params
+        if "bureau" in params:
+            bureau = params["bureau"]
+            ret = ret.filter(person__bureau=bureau)
+        elif "centre" in params:
+            centre = params["centre"]
+            ret = ret.filter(person__bureau__centre=centre)
+        elif "commune" in params:
+            commune = params["commune"]
+            ret = ret.filter(person__bureau__centre__commune=commune)
+        elif "moughataa" in params:
+            moughataa = params["moughataa"]
+            ret = ret.filter(person__bureau__centre__commune__moughataa=moughataa)
+        elif "wilaya" in params:
+            wilaya = params["wilaya"]
+            ret = ret.filter(person__bureau__centre__commune__moughataa__wilaya=wilaya)
+        
+        return ret
+
     def get(self, request, *args, **kwargs):
         # create_random_data(Wilaya, 20)
         # create_random_data(Moughataa, 20)
