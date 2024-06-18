@@ -1,0 +1,20 @@
+[
+    {
+        "model": "vote.moughataa",
+        "pk": 0,
+        "fields": {
+            "name": "Nouadhibou",
+            "name_ar": "انواذيبو",
+            "wilaya": 0
+        }
+    },
+    {
+        "model": "vote.moughataa",
+        "pk": 1,
+        "fields": {
+            "name": "Chami",
+            "name_ar": "الشامي",
+            "wilaya": 0
+        }
+    }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "model": "vote.wilaya",
+    "pk": 1,
+    "fields": {
+      "name": "Dakhlet Nouadhibou",
+      "name_ar": "value"
+    }
+  },
+  {
+    "model": "vote.Moughataa",
+    "pk": 1,
+    "fields": {
+      "name": "Nouadhibou",
+      "name_ar": "انواذيبو",
+      "wilaya": 1
+    }
+  },
+  {
+    "model": "vote.Moughataa",
+    "pk": 2,
+    "fields": {
+      "name": "Chami",
+      "name_ar": "الشامي",
+      "wilaya": 1
+    }
+  },
+  {
+    "model": "vote.Commune",
+    "pk": 1,
+    "fields": {
+      "name": "Nouadhibou",
+      "name_ar": "انواذيبو",
+      "moughataa": 1
+    }
+  },
+  {
+    "model": "vote.Commune",
+    "pk": 1,
+    "fields": {
+      "name": "Nouadhibou",
+      "name_ar": "الشامي",
+      "moughataa": 1
+    }
+  },
+  {
+    "model": "vote.Centre",
+    "pk": 1,
+    "fields": {
+      "name": "Ecole 10 El Moutevejeratt",
+      "name_ar": "المدرسة رقم 10 المتفجرات",
+      "commune": 1
+    }
+  },
+  {
+    "model": "vote.Centre",
+    "pk": 2,
+    "fields": {
+      "name": "Ecole 9",
+      "name_ar": "المدرسة رقم 9 ",
+      "commune": 1
+    }
+  },
+  {
+    "model": "vote.Bureau",
+    "pk": 1,
+    "fields": {
+      "name": "Ecole 10 El Moutevejeratt (N° 01)",
+      "name_ar": "المدرسة رقم 10 المتفجرات (رقم 01)",
+      "centre": 1
+    }
+  },
+  {
+    "model": "vote.Bureau",
+    "pk": 2,
+    "fields": {
+      "name": "Ecole 10 El Moutevejeratt (N° 02)",
+      "name_ar": "المدرسة رقم 10 المتفجرات (رقم 02)",
+      "centre": 1
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 1,
+    "fields": {
+      "name": "Mohamed Ould Abdel Aziz",
+      "name_ar": "محمد ولد عبد العزيز",
+      "date_of_birth": "1956-12-20",
+      "birth_place": "Akjoujt",
+      "birth_place_ar": "اكجوجت",
+      "order": "1",
+      "bureau": 1
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 2,
+    "fields": {
+      "name": "Oumar M'Reizig Massa",
+      "name_ar": "عمار امريزيك ماصه",
+      "date_of_birth": "2001-02-01",
+      "birth_place": "Ksar",
+      "birth_place_ar": "لكصر",
+      "order": "330",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 3,
+    "fields": {
+      "name": "Aiche Mohamoud Hamadi",
+      "name_ar": "عيش محمود حمادي",
+      "date_of_birth": "1999-12-25",
+      "birth_place": "El Mina",
+      "birth_place_ar": "الميناء",
+      "order": "331",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 4,
+    "fields": {
+      "name": "Lalla Esghayer Belkeir",
+      "name_ar": "لاله اصغير بلخير",
+      "date_of_birth": "2002-12-30",
+      "birth_place": "Sebkha",
+      "birth_place_ar": "السبخة",
+      "order": "332",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 5,
+    "fields": {
+      "name": "Ely El Mokhtar Soueileck",
+      "name_ar": "اعل المختار اسويلك",
+      "date_of_birth": "2005-06-02",
+      "birth_place": "Ksar",
+      "birth_place_ar": "لكصر",
+      "order": "333",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 6,
+    "fields": {
+      "name": "Moussa Souleiman Gueye",
+      "name_ar": "موسى سليمان كي",
+      "date_of_birth": "1991-06-15",
+      "birth_place": "Aere M'Bar",
+      "birth_place_ar": "هايري امبار",
+      "order": "334",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 7,
+    "fields": {
+      "name": "Mohamed Yahye Mohamed Mahmoud Sidi",
+      "name_ar": "محمد يحي محمد محمود سيدي",
+      "date_of_birth": "1994-04-01",
+      "birth_place": "Nouadhibou",
+      "birth_place_ar": "انواذيبو",
+      "order": "335",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 8,
+    "fields": {
+      "name": "Brahim Sidi Mohamed Lebatt",
+      "name_ar": "ابراهيم سيدي محمد لبات",
+      "date_of_birth": "2003-06-21",
+      "birth_place": "El Mina",
+      "birth_place_ar": "الميناء",
+      "order": "336",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 9,
+    "fields": {
+      "name": "Mohamed Lemine Mohamed Saghir Taleb Issa",
+      "name_ar": "محمد الامين محمد الصغير الطالب عيسى",
+      "date_of_birth": "2005-04-23",
+      "birth_place": "Teyaret",
+      "birth_place_ar": "تيارت",
+      "order": "337",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 10,
+    "fields": {
+      "name": "Iyd Sidi Mohamed Eleya",
+      "name_ar": "ايد سيد محمد اعليه",
+      "date_of_birth": "2001-11-11",
+      "birth_place": "Kiffa",
+      "birth_place_ar": "كيفة",
+      "order": "338",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 11,
+    "fields": {
+      "name": "Oukht'Elbenine Cheikh Tourad Ahmed Mokhtar",
+      "name_ar": "اخت البنين الشيخ التراد أحمد مختار",
+      "date_of_birth": "1994-12-20",
+      "birth_place": "Kaédi",
+      "birth_place_ar": "كيهيدي",
+      "order": "339",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 12,
+    "fields": {
+      "name": "Fatimetou Sid'Ahmed M'Bareck",
+      "name_ar": "فاطمة سيد احمد امبارك",
+      "date_of_birth": "2001-10-05",
+      "birth_place": "Toujounine",
+      "birth_place_ar": "توجنين",
+      "order": "340",
+      "bureau": "1"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 13,
+    "fields": {
+      "name": "Havida Sidi Mohamed Baba",
+      "name_ar": "حفيده سيد محمد باب",
+      "date_of_birth": "1968-12-11",
+      "birth_place": "Ouad Naga",
+      "birth_place_ar": "واد الناقة",
+      "order": "341",
+      "bureau": "2"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 14,
+    "fields": {
+      "name": "Abba Mohamed El Moctar Henoune",
+      "name_ar": "آب محمد المختار هنون",
+      "date_of_birth": "1974-09-15",
+      "birth_place": "Sebkha",
+      "birth_place_ar": "السبخة",
+      "order": "342",
+      "bureau": "2"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 15,
+    "fields": {
+      "name": "Raghiya Mohamed Abdellahi Mohamed Mahmoud",
+      "name_ar": "رقية محمد عبد الله محمد محمود",
+      "date_of_birth": "1963-12-31",
+      "birth_place": "Dar Naim",
+      "birth_place_ar": "دار النعيم",
+      "order": "343",
+      "bureau": "2"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 16,
+    "fields": {
+      "name": "Aicheta Mohamed Ahmed Taleb Oumar",
+      "name_ar": "عيشة محمد أحمد الطالب عمار",
+      "date_of_birth": "1993-06-25",
+      "birth_place": "Hassi Abdallah",
+      "birth_place_ar": "حاسي عبد الله",
+      "order": "344",
+      "bureau": "2"
+    }
+  },
+  {
+    "model": "vote.Person",
+    "pk": 17,
+    "fields": {
+      "name": "Mariem Cherif Ahmedou",
+      "name_ar": "مريم اشريف أحمدو",
+      "date_of_birth": "2001-04-02",
+      "birth_place": "Dar Naim",
+      "birth_place_ar": "دار النعيم",
+      "order": "345",
+      "bureau": "2"
+    }
+  }
+]

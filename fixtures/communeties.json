@@ -1,0 +1,56 @@
+[
+    {
+        "model": "vote.commune",
+        "pk": 0,
+        "fields": {
+            "name": "Nouadhibou",
+            "name_ar": "انواذيبو",
+            "moughataa": 0
+        }
+    },
+    {
+        "model": "vote.commune",
+        "pk": 1,
+        "fields": {
+            "name": "Boulenouar",
+            "name_ar": "بولنوار",
+            "moughataa": 0
+        }
+    },
+    {
+        "model": "vote.commune",
+        "pk": 2,
+        "fields": {
+            "name": "Inal",
+            "name_ar": "انال",
+            "moughataa": 0
+        }
+    },
+    {
+        "model": "vote.commune",
+        "pk": 3,
+        "fields": {
+            "name": "Chami",
+            "name_ar": "الشامي",
+            "moughataa": 1
+        }
+    },
+    {
+        "model": "vote.commune",
+        "pk": 4,
+        "fields": {
+            "name": "Nouamghar",
+            "name_ar": "انوامغار",
+            "moughataa": 1
+        }
+    },
+    {
+        "model": "vote.commune",
+        "pk": 5,
+        "fields": {
+            "name": "Tmeimichat",
+            "name_ar": "اتميميشات",
+            "moughataa": 1
+        }
+    }
+]

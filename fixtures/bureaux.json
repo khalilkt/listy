@@ -1,0 +1,1352 @@
+[
+    {
+        "model": "vote.bureau",
+        "pk": 0,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 01)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 01)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 1,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 02)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 02)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 2,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 03)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 03)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 3,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 04)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 04)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 4,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 05)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 05)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 5,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 06)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 06)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 6,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 07)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 07)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 7,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 08)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 08)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 8,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 09)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 09)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 9,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 10)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 10)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 10,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 11)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 11)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 11,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 12)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 12)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 12,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 13)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 13)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 13,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 14)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 14)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 14,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt (N° 15)",
+            "name_ar": "المدرسة رقم 10 المتفجرات (رقم 15)",
+            "centre": 0
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 15,
+        "fields": {
+            "name": "Ecole 9 (N° 01)",
+            "name_ar": "المدرسة رقم 9 (رقم 01)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 16,
+        "fields": {
+            "name": "Ecole 9 (N° 02)",
+            "name_ar": "المدرسة رقم 9 (رقم 02)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 17,
+        "fields": {
+            "name": "Ecole 9 (N° 03)",
+            "name_ar": "المدرسة رقم 9 (رقم 03)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 18,
+        "fields": {
+            "name": "Ecole 9 (N° 04)",
+            "name_ar": "المدرسة رقم 9 (رقم 04)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 19,
+        "fields": {
+            "name": "Ecole 9 (N° 05)",
+            "name_ar": "المدرسة رقم 9 (رقم 05)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 20,
+        "fields": {
+            "name": "Ecole 9 (N° 06)",
+            "name_ar": "المدرسة رقم 9 (رقم 06)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 21,
+        "fields": {
+            "name": "Ecole 9 (N° 07)",
+            "name_ar": "المدرسة رقم 9 (رقم 07)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 22,
+        "fields": {
+            "name": "Ecole 9 (N° 08)",
+            "name_ar": "المدرسة رقم 9 (رقم 08)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 23,
+        "fields": {
+            "name": "Ecole 9 (N° 09)",
+            "name_ar": "المدرسة رقم 9 (رقم 09)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 24,
+        "fields": {
+            "name": "Ecole 9 (N° 10)",
+            "name_ar": "المدرسة رقم 9 (رقم 10)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 25,
+        "fields": {
+            "name": "Ecole 9 (N° 11)",
+            "name_ar": "المدرسة رقم 9 (رقم 11)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 26,
+        "fields": {
+            "name": "Ecole 9 (N° 12)",
+            "name_ar": "المدرسة رقم 9 (رقم 12)",
+            "centre": 1
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 27,
+        "fields": {
+            "name": "Ecole 8 (N° 01)",
+            "name_ar": "المدرسة رقم 8 (رقم 01)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 28,
+        "fields": {
+            "name": "Ecole 8 (N° 02)",
+            "name_ar": "المدرسة رقم 8 (رقم 02)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 29,
+        "fields": {
+            "name": "Ecole 8 (N° 03)",
+            "name_ar": "المدرسة رقم 8 (رقم 03)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 30,
+        "fields": {
+            "name": "Ecole 8 (N° 04)",
+            "name_ar": "المدرسة رقم 8 (رقم 04)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 31,
+        "fields": {
+            "name": "Ecole 8 (N° 05)",
+            "name_ar": "المدرسة رقم 8 (رقم 05)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 32,
+        "fields": {
+            "name": "Ecole 8 (N° 06)",
+            "name_ar": "المدرسة رقم 8 (رقم 06)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 33,
+        "fields": {
+            "name": "Ecole 8 (N° 07)",
+            "name_ar": "المدرسة رقم 8 (رقم 07)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 34,
+        "fields": {
+            "name": "Ecole 8 (N° 08)",
+            "name_ar": "المدرسة رقم 8 (رقم 08)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 35,
+        "fields": {
+            "name": "Ecole 8 (N° 09)",
+            "name_ar": "المدرسة رقم 8 (رقم 09)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 36,
+        "fields": {
+            "name": "Ecole 8 (N° 10)",
+            "name_ar": "المدرسة رقم 8 (رقم 10)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 37,
+        "fields": {
+            "name": "Ecole 8 (N° 11)",
+            "name_ar": "المدرسة رقم 8 (رقم 11)",
+            "centre": 2
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 38,
+        "fields": {
+            "name": "Ecole 7 (N° 01)",
+            "name_ar": "المدرسة رقم 7 (رقم 01)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 39,
+        "fields": {
+            "name": "Ecole 7 (N° 02)",
+            "name_ar": "المدرسة رقم 7 (رقم 02)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 40,
+        "fields": {
+            "name": "Ecole 7 (N° 03)",
+            "name_ar": "المدرسة رقم 7 (رقم 03)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 41,
+        "fields": {
+            "name": "Ecole 7 (N° 04)",
+            "name_ar": "المدرسة رقم 7 (رقم 04)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 42,
+        "fields": {
+            "name": "Ecole 7 (N° 05)",
+            "name_ar": "المدرسة رقم 7 (رقم 05)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 43,
+        "fields": {
+            "name": "Ecole 7 (N° 06)",
+            "name_ar": "المدرسة رقم 7 (رقم 06)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 44,
+        "fields": {
+            "name": "Ecole 7 (N° 07)",
+            "name_ar": "المدرسة رقم 7 (رقم 07)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 45,
+        "fields": {
+            "name": "Ecole 7 (N° 08)",
+            "name_ar": "المدرسة رقم 7 (رقم 08)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 46,
+        "fields": {
+            "name": "Ecole 7 (N° 09)",
+            "name_ar": "المدرسة رقم 7 (رقم 09)",
+            "centre": 3
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 47,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 01)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 01)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 48,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 02)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 02)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 49,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 03)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 03)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 50,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 04)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 04)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 51,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 05)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 05)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 52,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 06)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 06)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 53,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 07)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 07)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 54,
+        "fields": {
+            "name": "Ecole 1 Tahil (N° 08)",
+            "name_ar": "مدرسة 1 ترحيل (رقم 08)",
+            "centre": 4
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 55,
+        "fields": {
+            "name": "College 3 (N° 01)",
+            "name_ar": "الاعدادية رقم 3 (رقم 01)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 56,
+        "fields": {
+            "name": "College 3 (N° 02)",
+            "name_ar": "الاعدادية رقم 3 (رقم 02)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 57,
+        "fields": {
+            "name": "College 3 (N° 03)",
+            "name_ar": "الاعدادية رقم 3 (رقم 03)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 58,
+        "fields": {
+            "name": "College 3 (N° 04)",
+            "name_ar": "الاعدادية رقم 3 (رقم 04)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 59,
+        "fields": {
+            "name": "College 3 (N° 05)",
+            "name_ar": "الاعدادية رقم 3 (رقم 05)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 60,
+        "fields": {
+            "name": "College 3 (N° 06)",
+            "name_ar": "الاعدادية رقم 3 (رقم 06)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 61,
+        "fields": {
+            "name": "College 3 (N° 07)",
+            "name_ar": "الاعدادية رقم 3 (رقم 07)",
+            "centre": 5
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 62,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 01)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 01)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 63,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 02)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 02)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 64,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 03)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 03)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 65,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 04)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 04)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 66,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 05)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 05)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 67,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 06)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 06)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 68,
+        "fields": {
+            "name": "Ecole 12 Wejah (N° 07)",
+            "name_ar": "المدرسة رقم 12 وجاه (رقم 07)",
+            "centre": 6
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 69,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 01)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 01)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 70,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 02)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 02)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 71,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 03)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 03)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 72,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 04)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 04)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 73,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 05)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 05)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 74,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 06)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 06)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 75,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane (N° 07)",
+            "name_ar": "المدرسة 2 رأس الإيمان (رقم 07)",
+            "centre": 7
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 76,
+        "fields": {
+            "name": "Collège 1 (N° 01)",
+            "name_ar": "الإعدادية 1 (رقم 01)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 77,
+        "fields": {
+            "name": "Collège 1 (N° 02)",
+            "name_ar": "الإعدادية 1 (رقم 02)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 78,
+        "fields": {
+            "name": "Collège 1 (N° 03)",
+            "name_ar": "الإعدادية 1 (رقم 03)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 79,
+        "fields": {
+            "name": "Collège 1 (N° 04)",
+            "name_ar": "الإعدادية 1 (رقم 04)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 80,
+        "fields": {
+            "name": "Collège 1 (N° 05)",
+            "name_ar": "الإعدادية 1 (رقم 05)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 81,
+        "fields": {
+            "name": "Collège 1 (N° 06)",
+            "name_ar": "الإعدادية 1 (رقم 06)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 82,
+        "fields": {
+            "name": "Collège 1 (N° 07)",
+            "name_ar": "الإعدادية 1 (رقم 07)",
+            "centre": 8
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 83,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 01)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 01)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 84,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 02)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 02)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 85,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 03)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 03)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 86,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 04)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 04)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 87,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 05)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 05)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 88,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 06)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 06)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 89,
+        "fields": {
+            "name": "Ecole 1 Leareiguib (N° 07)",
+            "name_ar": "المدرسة رقم 1 لعريقيب (رقم 07)",
+            "centre": 9
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 90,
+        "fields": {
+            "name": "Ecole 11 (N° 01)",
+            "name_ar": "المدرسة رقم 11 (رقم 01)",
+            "centre": 10
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 91,
+        "fields": {
+            "name": "Ecole 11 (N° 02)",
+            "name_ar": "المدرسة رقم 11 (رقم 02)",
+            "centre": 10
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 92,
+        "fields": {
+            "name": "Ecole 11 (N° 03)",
+            "name_ar": "المدرسة رقم 11 (رقم 03)",
+            "centre": 10
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 93,
+        "fields": {
+            "name": "Ecole 11 (N° 04)",
+            "name_ar": "المدرسة رقم 11 (رقم 04)",
+            "centre": 10
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 94,
+        "fields": {
+            "name": "Ecole 11 (N° 05)",
+            "name_ar": "المدرسة رقم 11 (رقم 05)",
+            "centre": 10
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 95,
+        "fields": {
+            "name": "Ecole 11 (N° 06)",
+            "name_ar": "المدرسة رقم 11 (رقم 06)",
+            "centre": 10
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 96,
+        "fields": {
+            "name": "Ecole 1 Cansado (N° 01)",
+            "name_ar": "المدرسة 1 كانصادو (رقم 01)",
+            "centre": 11
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 97,
+        "fields": {
+            "name": "Ecole 1 Cansado (N° 02)",
+            "name_ar": "المدرسة 1 كانصادو (رقم 02)",
+            "centre": 11
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 98,
+        "fields": {
+            "name": "Ecole 1 Cansado (N° 03)",
+            "name_ar": "المدرسة 1 كانصادو (رقم 03)",
+            "centre": 11
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 99,
+        "fields": {
+            "name": "Ecole 1 Cansado (N° 04)",
+            "name_ar": "المدرسة 1 كانصادو (رقم 04)",
+            "centre": 11
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 100,
+        "fields": {
+            "name": "Ecole 1 Cansado (N° 05)",
+            "name_ar": "المدرسة 1 كانصادو (رقم 05)",
+            "centre": 11
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 101,
+        "fields": {
+            "name": "Ecole 1 Cansado (N° 06)",
+            "name_ar": "المدرسة 1 كانصادو (رقم 06)",
+            "centre": 11
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 102,
+        "fields": {
+            "name": "Ecole 13 Baghdad (N° 01)",
+            "name_ar": "المدرسة رقم 13 بغداد (رقم 01)",
+            "centre": 12
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 103,
+        "fields": {
+            "name": "Ecole 13 Baghdad (N° 02)",
+            "name_ar": "المدرسة رقم 13 بغداد (رقم 02)",
+            "centre": 12
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 104,
+        "fields": {
+            "name": "Ecole 13 Baghdad (N° 03)",
+            "name_ar": "المدرسة رقم 13 بغداد (رقم 03)",
+            "centre": 12
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 105,
+        "fields": {
+            "name": "Ecole 13 Baghdad (N° 04)",
+            "name_ar": "المدرسة رقم 13 بغداد (رقم 04)",
+            "centre": 12
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 106,
+        "fields": {
+            "name": "Ecole 13 Baghdad (N° 05)",
+            "name_ar": "المدرسة رقم 13 بغداد (رقم 05)",
+            "centre": 12
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 107,
+        "fields": {
+            "name": "Jardin d'enfants el Ghayrwane (N° 01)",
+            "name_ar": "حديقة الأطفال القيروان (رقم 01)",
+            "centre": 13
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 108,
+        "fields": {
+            "name": "Jardin d'enfants el Ghayrwane (N° 02)",
+            "name_ar": "حديقة الأطفال القيروان (رقم 02)",
+            "centre": 13
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 109,
+        "fields": {
+            "name": "Jardin d'enfants el Ghayrwane (N° 03)",
+            "name_ar": "حديقة الأطفال القيروان (رقم 03)",
+            "centre": 13
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 110,
+        "fields": {
+            "name": "Nouvelle Maison des Jeunes (N° 01)",
+            "name_ar": "دار الشباب الجديدة (رقم 01)",
+            "centre": 14
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 111,
+        "fields": {
+            "name": "Nouvelle Maison des Jeunes (N° 02)",
+            "name_ar": "دار الشباب الجديدة (رقم 02)",
+            "centre": 14
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 112,
+        "fields": {
+            "name": "Ancienne Maison des jeunes (N° 01)",
+            "name_ar": "دار الشباب القديمة (رقم 01)",
+            "centre": 15
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 113,
+        "fields": {
+            "name": "Ancienne Maison des jeunes (N° 02)",
+            "name_ar": "دار الشباب القديمة (رقم 02)",
+            "centre": 15
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 114,
+        "fields": {
+            "name": "Commune (N° 01)",
+            "name_ar": "البلدية (رقم 01)",
+            "centre": 16
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 115,
+        "fields": {
+            "name": "Commune (N° 02)",
+            "name_ar": "البلدية (رقم 02)",
+            "centre": 16
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 116,
+        "fields": {
+            "name": "Hotel de ville (N° 01)",
+            "name_ar": "البلدية (رقم 01)",
+            "centre": 17
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 117,
+        "fields": {
+            "name": "Ecole 4 El jedida (N° 01)",
+            "name_ar": "المدرسة رقم 4 الجديدة (رقم 01)",
+            "centre": 18
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 118,
+        "fields": {
+            "name": "Ecole 2 Cansado (N° 01)",
+            "name_ar": "المدرسة 2 كانصادو (رقم 01)",
+            "centre": 19
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 119,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 01)",
+            "name_ar": "مدرسة بلنوار (رقم 01)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 120,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 02)",
+            "name_ar": "مدرسة بلنوار (رقم 02)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 121,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 03)",
+            "name_ar": "مدرسة بلنوار (رقم 03)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 122,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 04)",
+            "name_ar": "مدرسة بلنوار (رقم 04)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 123,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 05)",
+            "name_ar": "مدرسة بلنوار (رقم 05)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 124,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 06)",
+            "name_ar": "مدرسة بلنوار (رقم 06)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 125,
+        "fields": {
+            "name": "Ecole Boulenouar (N° 07)",
+            "name_ar": "مدرسة بلنوار (رقم 07)",
+            "centre": 20
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 126,
+        "fields": {
+            "name": "Ecole Inal (N° 01)",
+            "name_ar": "مدرسة انال (رقم 01)",
+            "centre": 21
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 127,
+        "fields": {
+            "name": "Ecole Inal (N° 02)",
+            "name_ar": "مدرسة انال (رقم 02)",
+            "centre": 21
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 128,
+        "fields": {
+            "name": "Ecole Chami (N° 01)",
+            "name_ar": "مدرسة الشامي (رقم 01)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 129,
+        "fields": {
+            "name": "Ecole Chami (N° 02)",
+            "name_ar": "مدرسة الشامي (رقم 02)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 130,
+        "fields": {
+            "name": "Ecole Chami (N° 03)",
+            "name_ar": "مدرسة الشامي (رقم 03)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 131,
+        "fields": {
+            "name": "Ecole Chami (N° 04)",
+            "name_ar": "مدرسة الشامي (رقم 04)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 132,
+        "fields": {
+            "name": "Ecole Chami (N° 05)",
+            "name_ar": "مدرسة الشامي (رقم 05)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 133,
+        "fields": {
+            "name": "Ecole Chami (N° 06)",
+            "name_ar": "مدرسة الشامي (رقم 06)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 134,
+        "fields": {
+            "name": "Ecole Chami (N° 07)",
+            "name_ar": "مدرسة الشامي (رقم 07)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 135,
+        "fields": {
+            "name": "Ecole Chami (N° 08)",
+            "name_ar": "مدرسة الشامي (رقم 08)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 136,
+        "fields": {
+            "name": "Ecole Chami (N° 09)",
+            "name_ar": "مدرسة الشامي (رقم 09)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 137,
+        "fields": {
+            "name": "Ecole Chami (N° 10)",
+            "name_ar": "مدرسة الشامي (رقم 10)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 138,
+        "fields": {
+            "name": "Ecole Chami (N° 11)",
+            "name_ar": "مدرسة الشامي (رقم 11)",
+            "centre": 22
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 139,
+        "fields": {
+            "name": "Dispensaire Chami (N° 01)",
+            "name_ar": "مستوصف الشامي (رقم 01)",
+            "centre": 23
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 140,
+        "fields": {
+            "name": "Dispensaire Chami (N° 02)",
+            "name_ar": "مستوصف الشامي (رقم 02)",
+            "centre": 23
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 141,
+        "fields": {
+            "name": "Dispensaire Chami (N° 03)",
+            "name_ar": "مستوصف الشامي (رقم 03)",
+            "centre": 23
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 142,
+        "fields": {
+            "name": "AGUNEITURE (N° 01)",
+            "name_ar": "أكنيتير (رقم 01)",
+            "centre": 24
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 143,
+        "fields": {
+            "name": "Ecole Nouamghar (N° 01)",
+            "name_ar": "مدرسة انوامغار (رقم 01)",
+            "centre": 25
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 144,
+        "fields": {
+            "name": "Sondage Ehel Abdel Vetah (N° 01)",
+            "name_ar": "صونداج اهل عبد الفتاح (رقم 01)",
+            "centre": 26
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 145,
+        "fields": {
+            "name": "Tichott (N° 01)",
+            "name_ar": "تيشط (رقم 01)",
+            "centre": 27
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 146,
+        "fields": {
+            "name": "Iwik (N° 01)",
+            "name_ar": "إويك (رقم 01)",
+            "centre": 28
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 147,
+        "fields": {
+            "name": "Ecole T'Meimichatt (N° 01)",
+            "name_ar": "مدرسة اتميمشات (رقم 01)",
+            "centre": 29
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 148,
+        "fields": {
+            "name": "Ecole T'Meimichatt (N° 02)",
+            "name_ar": "مدرسة اتميمشات (رقم 02)",
+            "centre": 29
+        }
+    },
+    {
+        "model": "vote.bureau",
+        "pk": 149,
+        "fields": {
+            "name": "Dewass (N° 01)",
+            "name_ar": "الدواس (رقم 01)",
+            "centre": 30
+        }
+    }
+]

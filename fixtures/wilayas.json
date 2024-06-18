@@ -1,0 +1,10 @@
+[
+    {
+        "model": "vote.wilaya",
+        "pk": 0,
+        "fields": {
+            "name": "Dakhlet Nouadhibou",
+            "name_ar": "داخلت انواذيبو"
+        }
+    }
+]

@@ -1,0 +1,281 @@
+[
+    {
+        "model": "vote.centre",
+        "pk": 0,
+        "fields": {
+            "name": "Ecole 10 El Moutevejeratt",
+            "name_ar": "المدرسة رقم 10 المتفجرات",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 1,
+        "fields": {
+            "name": "Ecole 9",
+            "name_ar": "المدرسة رقم 9",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 2,
+        "fields": {
+            "name": "Ecole 8",
+            "name_ar": "المدرسة رقم 8",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 3,
+        "fields": {
+            "name": "Ecole 7",
+            "name_ar": "المدرسة رقم 7",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 4,
+        "fields": {
+            "name": "Ecole 1 Tahil",
+            "name_ar": "مدرسة 1 ترحيل",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 5,
+        "fields": {
+            "name": "College 3",
+            "name_ar": "الاعدادية رقم 3",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 6,
+        "fields": {
+            "name": "Ecole 12 Wejah",
+            "name_ar": "المدرسة رقم 12 وجاه",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 7,
+        "fields": {
+            "name": "Ecole 2 Rass El Imane",
+            "name_ar": "المدرسة 2 رأس الإيمان",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 8,
+        "fields": {
+            "name": "Collège 1",
+            "name_ar": "الإعدادية 1",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 9,
+        "fields": {
+            "name": "Ecole 1 Leareiguib",
+            "name_ar": "المدرسة رقم 1 لعريقيب",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 10,
+        "fields": {
+            "name": "Ecole 11",
+            "name_ar": "المدرسة رقم 11",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 11,
+        "fields": {
+            "name": "Ecole 1 Cansado",
+            "name_ar": "المدرسة 1 كانصادو",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 12,
+        "fields": {
+            "name": "Ecole 13 Baghdad",
+            "name_ar": "المدرسة رقم 13 بغداد",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 13,
+        "fields": {
+            "name": "Jardin d'enfants el Ghayrwane",
+            "name_ar": "حديقة الأطفال القيروان",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 14,
+        "fields": {
+            "name": "Nouvelle Maison des Jeunes",
+            "name_ar": "دار الشباب الجديدة",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 15,
+        "fields": {
+            "name": "Ancienne Maison des jeunes",
+            "name_ar": "دار الشباب القديمة",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 16,
+        "fields": {
+            "name": "Commune",
+            "name_ar": "البلدية",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 17,
+        "fields": {
+            "name": "Hotel de ville",
+            "name_ar": "البلدية",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 18,
+        "fields": {
+            "name": "Ecole 4 El jedida",
+            "name_ar": "المدرسة رقم 4 الجديدة",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 19,
+        "fields": {
+            "name": "Ecole 2 Cansado",
+            "name_ar": "المدرسة 2 كانصادو",
+            "commune": 0
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 20,
+        "fields": {
+            "name": "Ecole Boulenouar",
+            "name_ar": "مدرسة بلنوار",
+            "commune": 1
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 21,
+        "fields": {
+            "name": "Ecole Inal",
+            "name_ar": "مدرسة انال",
+            "commune": 2
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 22,
+        "fields": {
+            "name": "Ecole Chami",
+            "name_ar": "مدرسة الشامي",
+            "commune": 3
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 23,
+        "fields": {
+            "name": "Dispensaire Chami",
+            "name_ar": "مستوصف الشامي",
+            "commune": 3
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 24,
+        "fields": {
+            "name": "AGUNEITURE",
+            "name_ar": "أكنيتير",
+            "commune": 4
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 25,
+        "fields": {
+            "name": "Ecole Nouamghar",
+            "name_ar": "مدرسة انوامغار",
+            "commune": 4
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 26,
+        "fields": {
+            "name": "Sondage Ehel Abdel Vetah",
+            "name_ar": "صونداج اهل عبد الفتاح",
+            "commune": 4
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 27,
+        "fields": {
+            "name": "Tichott",
+            "name_ar": "تيشط",
+            "commune": 4
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 28,
+        "fields": {
+            "name": "Iwik",
+            "name_ar": "إويك",
+            "commune": 4
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 29,
+        "fields": {
+            "name": "Ecole T'Meimichatt",
+            "name_ar": "مدرسة اتميمشات",
+            "commune": 5
+        }
+    },
+    {
+        "model": "vote.centre",
+        "pk": 30,
+        "fields": {
+            "name": "Dewass",
+            "name_ar": "الدواس",
+            "commune": 5
+        }
+    }
+]
