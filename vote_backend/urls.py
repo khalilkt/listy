@@ -19,6 +19,7 @@ from django.urls import path
 from authentication.views import LoginTokenView, LoginView
 from vote.views import PersonList, MyPersonList , MyPersonDetail
 from vote.views.entities import WilayaList, MoughataaList, CommuneList, CentreList, BureauList
+from vote.views.entities import WilayaDetail, MoughataaDetail, CommuneDetail, CentreDetail, BureauDetail
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -35,6 +36,13 @@ urlpatterns = [
     path('communes/', CommuneList.as_view(), name='commune-list'),
     path('centres/', CentreList.as_view(), name='centre-list'),
     path('bureaus/', BureauList.as_view(), name='bureau-list'),
+
+    path('wilayas/<int:pk>/', WilayaDetail.as_view(), name='wilaya-detail'),
+    path('moughataas/<int:pk>/', MoughataaDetail.as_view(), name='moughataa-detail'),
+    path('communes/<int:pk>/', CommuneDetail.as_view(), name='commune-detail'),
+    path('centres/<int:pk>/', CentreDetail.as_view(), name='centre-detail'),
+    path('bureaus/<int:pk>/', BureauDetail.as_view(), name='bureau-detail'),
+    
     
     
 ]

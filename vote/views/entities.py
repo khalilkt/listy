@@ -1,5 +1,5 @@
 from ..models.entities import *
-from rest_framework.generics import ListCreateAPIView, ListAPIView
+from rest_framework.generics import ListCreateAPIView, ListAPIView, RetrieveAPIView
 from rest_framework.permissions import IsAuthenticated
 
 class WilayaList(ListAPIView):
@@ -14,6 +14,9 @@ class WilayaList(ListAPIView):
 
     def get_queryset(self):
         return Wilaya.objects.all()
+    
+
+
 
 class MoughataaList(ListAPIView):
     permission_classes = [IsAuthenticated]
@@ -65,3 +68,24 @@ class BureauList(ListAPIView):
 
     def get_queryset(self):
         return Bureau.objects.all()
+
+class WilayaDetail(RetrieveAPIView):
+    serializer_class = WilayaSerializer
+    queryset = Wilaya.objects.all()
+
+class MoughataaDetail(RetrieveAPIView):
+    serializer_class = MoughataaSerializer
+    queryset = Moughataa.objects.all()
+
+class CommuneDetail(RetrieveAPIView):
+    serializer_class = CommuneSerializer
+    queryset = Commune.objects.all()
+
+class CentreDetail(RetrieveAPIView):
+    serializer_class = CentreSerializer
+    queryset = Centre.objects.all()
+
+class BureauDetail(RetrieveAPIView):
+    serializer_class = BureauSerializer
+    queryset = Bureau.objects.all()
+    
