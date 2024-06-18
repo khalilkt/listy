@@ -41,7 +41,7 @@ class UserPerson(models.Model):
     person = models.ForeignKey(Person, on_delete=models.CASCADE)
     nnn = models.CharField(max_length=15)
     phone = models.CharField(default="", max_length=100, blank=True, null=True)
-    note = models.TextField(default="", blank=True, null=True)
+    note = models.CharField(default="", blank=True, null=True, max_length=1000)
 
     class Meta:
         unique_together = ['user', 'person']
