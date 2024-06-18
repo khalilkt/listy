@@ -12,11 +12,11 @@ class WilayaList(ListAPIView):
 
     def get_queryset(self):
         return Wilaya.objects.all()
-    
+
 class MoughataaList(ListAPIView):
     permission_classes = [IsAuthenticated]
     serializer_class = MoughataaSerializer
-    filterset_fields = [] 
+    filterset_fields = ["wilaya"] 
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
@@ -27,7 +27,7 @@ class MoughataaList(ListAPIView):
 class CommuneList(ListAPIView):
     permission_classes = [IsAuthenticated]
     serializer_class = CommuneSerializer
-    filterset_fields = [] 
+    filterset_fields = ["moughataa"] 
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
@@ -38,7 +38,7 @@ class CommuneList(ListAPIView):
 class CentreList(ListAPIView):
     permission_classes = [IsAuthenticated]
     serializer_class = CentreSerializer
-    filterset_fields = [] 
+    filterset_fields = ["commune"] 
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
@@ -49,7 +49,7 @@ class CentreList(ListAPIView):
 class BureauList(ListAPIView):
     permission_classes = [IsAuthenticated]
     serializer_class = BureauSerializer
-    filterset_fields = [] 
+    filterset_fields = ["centre"] 
     search_fields = ["name", "name_ar"]
     ordering_fileds = []
     ordering = ['name']
